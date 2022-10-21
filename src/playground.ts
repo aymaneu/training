@@ -1,1 +1,0 @@
-let boy: string = "f";
